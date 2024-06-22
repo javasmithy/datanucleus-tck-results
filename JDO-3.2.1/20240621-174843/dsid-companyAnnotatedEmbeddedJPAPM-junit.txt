@@ -1,6 +1,0 @@
-RUN CompletenessTestJPA.test	
-Description: null
-Time: 001
-dsid-companyAnnotatedEmbeddedJPAPM-junit.txt:
-    OK Tests run: 001, Time: 001 seconds.
-Excluded tests: 
