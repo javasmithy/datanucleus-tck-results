@@ -1,0 +1,11 @@
+17:48:49,560 (main) WARN  [DataNucleus.Datastore.Schema] - You have specified the default schema as datastoreidentity0 but for this datastore this has been changed to DATASTOREIDENTITY0. This is likely due to missing quote characters, or the datastore storing things in a different case
+17:48:49,913 (main) WARN  [DataNucleus.Datastore.Schema] - You have specified the default schema as datastoreidentity0 but for this datastore this has been changed to DATASTOREIDENTITY0. This is likely due to missing quote characters, or the datastore storing things in a different case
+17:49:01,434 (main) ERROR [DataNucleus.Datastore.Persist] - Batched statement "DELETE FROM DATASTOREIDENTITY0.PCPOINT WHERE DATASTORE_IDENTITY=?" failed. 
+DELETE on table 'PCPOINT' caused a violation of foreign key constraint 'SQL240621174810880' for key (209).  The statement has been rolled back.
+17:49:01,437 (main) ERROR [DataNucleus.Datastore.Persist] - Batched statement "DELETE FROM DATASTOREIDENTITY0.PCPOINT WHERE DATASTORE_IDENTITY=?" failed. 
+DELETE on table 'PCPOINT' caused a violation of foreign key constraint 'SQL240621174810880' for key (209).  The statement has been rolled back.
+17:49:11,061 (main) WARN  [DataNucleus.Persistence] - Attempt to set property "com.mystery.property" on PM/EM yet this is not supported. Ignored
+17:49:11,136 (main) WARN  [DataNucleus.MetaData] - Class org.apache.jdo.tck.pc.newInstance.AAddressImpl is defined to use the same table as org.apache.jdo.tck.pc.newInstance.AAddress yet this root class has not been defined with a discriminator!!!
+17:49:11,141 (main) WARN  [DataNucleus.MetaData] - Class org.apache.jdo.tck.pc.newInstance.AAddressImpl is defined to use the same table as org.apache.jdo.tck.pc.newInstance.AAddress yet this root class has not been defined with a discriminator!!!
+17:49:12,245 (main) WARN  [DataNucleus.General] - ExecutionContext closed with active transaction, so rolling back the active transaction
+17:49:12,578 (main) WARN  [DataNucleus.Persistence] - Exception thrown by StateManager.isLoaded for field=1 of StateManager[pc=org.apache.jdo.tck.pc.mylib.PCPoint@4738131e, lifecycle=P_CLEAN] : Object with id "1285[OID]org.apache.jdo.tck.pc.mylib.PCPoint" not found !

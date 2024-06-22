@@ -1,0 +1,15 @@
+17:51:25,180 (main) WARN  [DataNucleus.Datastore.Schema] - You have specified the default schema as datastoreidentity0 but for this datastore this has been changed to DATASTOREIDENTITY0. This is likely due to missing quote characters, or the datastore storing things in a different case
+17:51:25,451 (main) WARN  [DataNucleus.MetaData] - Merging duplicated PersistenceCapable annotation : using key=identityType with value=DATASTORE instead of UNSPECIFIED
+17:51:25,451 (main) WARN  [DataNucleus.MetaData] - Merging duplicated PersistenceCapable annotation : using key=detachable with value=true instead of 
+17:51:25,469 (main) WARN  [DataNucleus.MetaData] - Merging duplicated PersistenceCapable annotation : using key=identityType with value=DATASTORE instead of UNSPECIFIED
+17:51:25,470 (main) WARN  [DataNucleus.MetaData] - Merging duplicated PersistenceCapable annotation : using key=detachable with value=true instead of 
+17:51:25,475 (main) WARN  [DataNucleus.MetaData] - Merging duplicated PersistenceCapable annotation : using key=table with value=persons instead of 
+17:51:25,481 (main) WARN  [DataNucleus.MetaData] - Merging duplicated PersistenceCapable annotation : using key=identityType with value=DATASTORE instead of UNSPECIFIED
+17:51:25,481 (main) WARN  [DataNucleus.MetaData] - Merging duplicated PersistenceCapable annotation : using key=detachable with value=true instead of 
+17:51:25,493 (main) WARN  [DataNucleus.MetaData] - Merging duplicated PersistenceCapable annotation : using key=identityType with value=DATASTORE instead of UNSPECIFIED
+17:51:25,493 (main) WARN  [DataNucleus.MetaData] - Merging duplicated PersistenceCapable annotation : using key=detachable with value=true instead of 
+17:51:25,507 (main) WARN  [DataNucleus.MetaData] - Merging duplicated PersistenceCapable annotation : using key=table with value=persons instead of 
+17:51:25,539 (main) WARN  [DataNucleus.MetaData] - Merging duplicated PersistenceCapable annotation : using key=table with value=persons instead of 
+17:51:25,551 (main) WARN  [DataNucleus.MetaData] - Merging duplicated PersistenceCapable annotation : using key=table with value=insuranceplans instead of 
+17:51:26,281 (main) WARN  [DataNucleus.MetaData] - Merging duplicated PersistenceCapable annotation : using key=identityType with value=DATASTORE instead of UNSPECIFIED
+17:51:26,281 (main) WARN  [DataNucleus.MetaData] - Merging duplicated PersistenceCapable annotation : using key=detachable with value=true instead of 
