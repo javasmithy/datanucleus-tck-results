@@ -1,6 +1,0 @@
-RUN EnumMethodOrdinal.testOrdinal	
-Description: null
-Time: 002
-app-jdoql1-junit.txt:
-    OK Tests run: 001, Time: 002 seconds.
-Excluded tests: 
